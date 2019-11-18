@@ -12,7 +12,7 @@ This was the first course I took at ODU, it entailed 3 base applications and 1 f
 
 For the final project, we decided to develop a Moroccon Food Receipes application which had a timer, ingridients calculator, and forums page.
 
-[Navigation Pane](./nav.png)
-[Social Media Page](./social.png)
-[Splash Screen](./splash.png)
-[Timer and Ingredient count](./timer.png)
+![Navigation Pane](./nav.png)
+![Social Media Page](./social.png)
+![Splash Screen](./splash.png)
+![Timer and Ingredient count](./timer.png)
