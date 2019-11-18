@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Golden Palace</string>
+
+    <string-array name="spinnerItems">
+        <item>Select Ward</item>
+        <item>Katraj</item>
+        <item>KoreGaon</item>
+        <item>Chinchwad</item>
+    </string-array>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="directions">1- Fill a pot with water and place the beetroots on it with 1/2 lemon. Place over medium heat and let the beetroots cook in boiling water for 45-60 minutes until tender. The skin should come off easily, and you should be able to pierce them with a fork.
+2- Once done, drain the beetroots and let them cool down.
+3- Peel the beetroots and remove the two ends.
+4- Slice the beetroots into small cubes and place them in a large bowl.
+5- Cut the onion, chop the parsley, and place them in a small bowl. Add the olive oil, lemon juice, cumin, salt, and pepper.
+6- Add the onion mixture to the diced beetroots. Mix until combined.
+Serve the salad at room temperature or cold. It can be eaten alone, with bread, or tossed in a garden salad.</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>All Recipes</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Soups</item>
+        <item>Salads</item>
+        <item>Appetilizers</item>
+        <item>Favourites</item>
+
+
+        <!-- <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifth</item>
+        <item>Sixth</item> -->
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+
+
+        <!--
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        -->
+
+    </array>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231943974391",
+    "firebase_url": "https://goldenpalaces-f8549.firebaseio.com",
+    "project_id": "goldenpalaces-f8549",
+    "storage_bucket": "goldenpalaces-f8549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231943974391:android:23c8d4f8a2091818",
+        "android_client_info": {
+          "package_name": "com.example.nehaniphadkar.goldenpalace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231943974391-q1ktddrcjqsobk5i50mpfdithp89ua8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWVqrjAMl-SO855PLWe66iTxkirlB-v4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
