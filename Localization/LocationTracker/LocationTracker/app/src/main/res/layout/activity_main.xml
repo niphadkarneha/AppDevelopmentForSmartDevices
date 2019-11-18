@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:layout_margin="20dp"
+
+    android:orientation="vertical"
+
+
+    android:weightSum="1">
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+
+        android:hint="Name this Place" />
+
+    <TextView
+        android:textColor="#000"
+        android:textSize="18dp"
+        android:id="@+id/latitude"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+
+        android:hint="Latitude" />
+
+    <TextView
+        android:textColor="#000"
+        android:textSize="18dp"        android:id="@+id/longitude"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+
+        android:hint="Longitude" />
+
+
+    <TextView
+
+        android:id="@+id/result"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:layout_margin="10dp" />
+    <Button
+
+        android:id="@+id/save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+
+        android:layout_weight="0.01"
+
+        android:background="@color/colorPrimary"
+
+        android:text="Check IN"
+
+        android:textColor="#fff"
+
+        tools:ignore="MissingConstraints"
+
+        tools:layout_editor_absoluteX="39dp"
+
+
+        tools:layout_editor_absoluteY="28dp" />
+    <Button
+        android:id="@+id/getLL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+
+        android:layout_weight="0.01"
+
+        android:background="@color/colorPrimary"
+
+        android:text="Stored Addreses"
+
+        android:textColor="#fff"
+
+        tools:ignore="MissingConstraints"
+
+        tools:layout_editor_absoluteX="39dp"
+
+
+        tools:layout_editor_absoluteY="28dp" />
+
+
+
+    <Button
+        android:id="@+id/b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="20dp"
+
+        android:background="@color/colorPrimary"
+
+        android:text="Show Map"
+
+        android:textColor="#fff" />
+
+
+</LinearLayout>
